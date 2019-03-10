@@ -10,3 +10,7 @@ Ultimately a factory for creating other factories
 
 Its like the factory method pattern but everything is encapsulated, its a higher level of abstraction  
 using interfaces and abstract classes.
+
+**Class Diagram**  
+
+![AbstractFactoryClassDiagram](AbstractFactoryClassDiagram.png)
