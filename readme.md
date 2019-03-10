@@ -1,16 +1,13 @@
-Design Patterns
-
-[C# Design Patterns: Part 1](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1/code-the-factory-pattern)
-
+## Design Patterns
 
 **Creational : object creation**
-- Abstract Factory
-- Factory Method
-- Singleton
+- [x] Abstract Factory
+- [x] Factory Method
+- [ ] Singleton
 
 **Structural : class and object composition**
-- Decorator
+- [ ] Decorator
 
 **Behavioral : communication between objects**
-- Iterator
-- Observer
+- [ ] Iterator
+- [ ] Observer
